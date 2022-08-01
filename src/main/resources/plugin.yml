@@ -1,0 +1,8 @@
+name: BlockTeleporter
+version: '${project.version}'
+main: fr.rayto.blockteleporter.BlockTeleporter
+author: Rayto
+commands:
+  bt:
+    aliases: BlockTeleporter
+    description: Create teleporter.
